@@ -1,2 +1,2 @@
 # CA_EvidenciaFinal
-Trabajo final de Computacion aVANZADA
+Trabajo final de Computacion Avanzada
